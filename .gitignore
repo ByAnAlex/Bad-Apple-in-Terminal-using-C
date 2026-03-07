@@ -1,0 +1,12 @@
+# executable
+*.out
+
+# object file
+*.o
+
+# build folder
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
