@@ -3,8 +3,10 @@
 # Author
 
 ByAnAlex
+
 Alias: **Mika Von Euphillia**
 
+---
 
 ⚠️ **Important Notice**
 
@@ -192,7 +194,7 @@ This ensures the ASCII frames fit properly inside the console.
 Run the following command:
 
 ```bash
-gcc src/main.c -o badapple -lwinmm
+gcc main.c -o badapple -lwinmm
 ```
 
 Explanation:
